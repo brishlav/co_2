@@ -1,0 +1,35 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Co_2" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Co_2" parent="Base.Theme.Co_2" />
+
+
+
+
+        <style name="TextStyle1">
+            <item name="android:textColor">	#4682B4</item>
+            <item name="android:textSize">45dp</item>
+            <item name="android:fontFamily">sans-serif-condensed-medium</item>
+        </style>
+
+
+        <style name="TextStyle2">
+            <item name="android:textColor">#0437F2</item>
+            <item name="android:textSize">35dp</item>
+            <item name="android:fontFamily">sans-serif-condensed-medium</item>
+        </style>
+
+    <style name="TextStyle3">
+        <item name="android:textColor">#0096FF	</item>
+        <item name="android:textSize">30dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans</item>
+    </style>
+
+
+
+</resources>
